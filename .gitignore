@@ -1,0 +1,13 @@
+# Zig build artifacts
+zig-cache/
+zig-out/
+*.o
+
+# Compiled executables
+hello
+chapter1
+chapter2
+
+# OS generated files
+.DS_Store
+Thumbs.db
