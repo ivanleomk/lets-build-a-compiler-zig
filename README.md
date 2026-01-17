@@ -24,7 +24,7 @@ By following this tutorial, you will learn:
 | Part | Title | Description |
 |------|-------|-------------|
 | 1 | [Introduction](01-introduction/README.md) | Setting up the environment and building the "cradle" |
-| 2 | Expression Parsing | Coming soon |
+| 2 | [Expression Parsing](02-expression-parsing/README.md) | Parsing arithmetic expressions with recursive descent |
 | 3 | More Expressions | Coming soon |
 | ... | ... | ... |
 
